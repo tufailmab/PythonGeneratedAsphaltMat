@@ -1,7 +1,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prony Series Fitting for Viscoelastic Materials</title>
 </head>
 <body>
   <h1>Prony Series Fitting for Viscoelastic Materials</h1>
