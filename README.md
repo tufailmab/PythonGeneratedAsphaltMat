@@ -6,7 +6,6 @@
   <title>Prony Series Fitting for Viscoelastic Materials</title>
 </head>
 <body>
-  <h1>Prony Series Fitting for Viscoelastic Materials</h1>
 
   <p>This project provides a Python-based solution for fitting experimental relaxation modulus data to a Prony series model, commonly used for viscoelastic material simulations. The code also generates an <code>.inp</code> material file compatible with ABAQUS.</p>
 
