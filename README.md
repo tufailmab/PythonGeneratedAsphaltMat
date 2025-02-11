@@ -35,9 +35,9 @@
   <p>Install dependencies using:</p>
   <pre><code>pip install numpy scipy matplotlib</code></pre>
 
-  <h2>License</h2>
-  <p>This project is licensed under the <strong>GNU General Public License v3.0 (GPLv3)</strong>.</p>
-  <p>You are free to use, modify, and distribute this software under the terms of GPLv3. If you use this software in your work, please provide appropriate credit to the developer.</p>
+<h2>License</h2>
+<p>This project is licensed under the <strong>MIT License</strong>.</p>
+<p>You are free to use, modify, and distribute this software under the terms of the MIT License. If you use this software in your work, please provide appropriate credit to the developer.</p>
 
   <h2>Developer Information</h2>
   <ul>
