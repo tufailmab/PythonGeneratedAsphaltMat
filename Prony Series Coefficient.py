@@ -36,6 +36,8 @@ total_g = g1 + g2
 total_tau = tau1 + tau2
 
 # Ensure the sum of g_i is between 0 and 1
+## I have used this with more points, and it is creating problem in simulation.
+## Always make sure, to remove lines and coefficients, it the sum is not less then 1.
 g1_normalized = g1 / total_g
 g2_normalized = g2 / total_g
 
